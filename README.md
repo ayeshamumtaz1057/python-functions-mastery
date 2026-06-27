@@ -1,30 +1,29 @@
-# Python Functions Mastery 🐍
+# Functions Basics
+# Ayesha Mumtaz - Python Learning
 
-A professional Python repository for learning functions and reusable code.
+# Simple function
+def greet():
+    print("Hello! Welcome!")
 
-## Topics Covered
+greet()
 
-- Creating Functions
-- Function Calling
-- Parameters & Arguments
-- Return Values
-- Default Arguments
-- *args and **kwargs
-- Lambda Functions
+# Function with parameter
+def greet_person(name):
+    print(f"Hello, {name}!")
 
-## Projects
+greet_person("Ayesha")
 
-✅ Calculator using Functions  
-✅ Student Result System  
-✅ Expense Calculator  
+# Function with return value
+def add_numbers(a, b):
+    return a + b
 
-## Skills Practiced
+result = add_numbers(10, 20)
+print("Sum:", result)
 
-- Code Reusability
-- Problem Solving
-- Clean Code Writing
+# Function with default value
+def introduce(name, city="Faisalabad"):
+    print(f"I am {name} from {city}")
 
-## Author
+introduce("Ayesha")
+introduce("Sara", "Lahore")
 
-Ayesha Mumtaz  
-BS Information Technology - 5th Semester
