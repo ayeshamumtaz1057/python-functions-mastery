@@ -1,29 +1,32 @@
-# Functions Basics
-# Ayesha Mumtaz - Python Learning
+# 🔄 Python Loops
 
-# Simple function
-def greet():
-    print("Hello! Welcome!")
+## 📌 About
+Beginner Python programs covering for loops,
+while loops, break, continue and loop practice.
+Part of my Python journey toward Data Analysis.
 
-greet()
+## 📂 Files
+| File | Description |
+|---|---|
+| for_loop.py | For loop examples |
+| while_loop.py | While loop + break/continue |
+| loop_practice.py | Practice problems |
 
-# Function with parameter
-def greet_person(name):
-    print(f"Hello, {name}!")
+## 💡 What I Learned
+- for loop with list and range
+- while loop with conditions
+- break and continue
+- Real practice problems
 
-greet_person("Ayesha")
+## 🛠️ Tools Used
+- Python 3
+- VS Code
 
-# Function with return value
-def add_numbers(a, b):
-    return a + b
+## 👩‍💻 Author
+**Ayesha Mumtaz** — BS IT Student
+📍 Bahwalpur,Punjab, Pakistan
+🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
 
-result = add_numbers(10, 20)
-print("Sum:", result)
-
-# Function with default value
-def introduce(name, city="Faisalabad"):
-    print(f"I am {name} from {city}")
-
-introduce("Ayesha")
-introduce("Sara", "Lahore")
-
+## 📈 Status
+✅ Completed
+   
