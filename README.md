@@ -3,7 +3,7 @@
 ## 📌 About
 Beginner Python programs covering for loops,
 while loops, break, continue and loop practice.
-Part of my Python journey toward Data Analysis.
+Part of my Python journey 
 
 ## 📂 Files
 | File | Description |
