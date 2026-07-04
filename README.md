@@ -27,6 +27,5 @@ Part of my Python journey toward Data Analysis.
 📍 Bahwalpur,Punjab, Pakistan
 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
 
-## 📈 Status
 
    
