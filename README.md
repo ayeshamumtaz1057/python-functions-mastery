@@ -27,5 +27,6 @@ while loops, break, continue and loop practice.
 📍 Bahwalpur,Punjab, Pakistan
 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
 
-
+#status
+completed
    
